@@ -28,10 +28,9 @@ content = """
 <title>My webserver</title>
 </head>
 <body>
-<h1>Welcome</h1>
-<h2>Shriram</h2>
-<h3>21500599</h3>
-<h4> AIML</h4>
+<h1>Shriram</h1>
+<h2>21500599</h2>
+<h3>AIML</h3>
 </body>
 </html>
 """
